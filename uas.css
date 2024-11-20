@@ -1,0 +1,26 @@
+.we{background-color: rgba(20, 184, 80, 0.735);}
+
+.btn-outline-success {
+    color: green;
+    border: 2px solid green;
+    background-color: transparent;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .btn-outline-success:hover {
+    background-color: green;
+    color: white;
+  
+  }
+
+.card-header {
+    background-color: rgb(43, 113, 226);
+}
+
+.nias {
+  background-color: blueviolet;
+}
